@@ -3,8 +3,9 @@
 This repository contains essential graph algorithms, covering common use cases, approaches, and tips for handling edge cases. These algorithms are fundamental for solving a variety of problems related to connectivity, pathfinding, and data structure traversal.
 
 ## Table of Contents
-- [Breadth-First Search (BFS)](#breadth-first-search-bfs)
-- [Depth-First Search (DFS)](#depth-first-search-dfs)
+- [Breadth-First Search (BFS)](#breadth-first.py)
+- [Depth-First Search (DFS)](#depth-first.py)
+
 - [Dijkstra’s Algorithm](#dijkstras-algorithm)
 - [A* Search Algorithm](#a-star-search-algorithm)
 - [Minimum Spanning Tree (MST)](#minimum-spanning-tree-mst)
