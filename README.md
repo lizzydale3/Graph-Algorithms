@@ -7,7 +7,6 @@ This repository contains essential graph algorithms, covering common use cases, 
 - [Depth-First Search (DFS)](#depth-first.py)
 
 - [Dijkstra’s Algorithm](#dijkstras-algorithm)
-- [A* Search Algorithm](#a-star-search-algorithm)
 - [Minimum Spanning Tree (MST)](#minimum-spanning-tree-mst)
 - [Topological Sort](#topological-sort)
 
